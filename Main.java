@@ -23,6 +23,7 @@ class Main {
 
   public static void Menu() {
     System.out.println("Welcome to PSA Poseidon System Sales");
+    System.out.println("----------");
     System.out.println("Enter your options, 1 for Sales, 2 to View Sales Table, 3 to exit!");
   }
 }
